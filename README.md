@@ -1,7 +1,7 @@
 # Servidor-Cacti
 Server developed in Linux Ubuntu server using the Cacti monitoring tool. More details in README file
 
-Server developed on Linux Ubuntu server using the Cacti monitoring tool. In order to track the network infrastructure of a certain company and monitor the performance of its 5 sites. The implementation of the server allows centralized monitoring, visualizing the performance of the devices and early detection of possible problems such as power failures, massive disconnections, patch cord disconnection.
+Server developed in Linux Ubuntu server using the Cacti monitoring tool. In order to track the network infrastructure of a certain company and monitor the performance of its 5 sites. The implementation of the server allows centralized monitoring, visualizing the performance of the devices and early detection of possible problems such as power failures, massive disconnections, patch cord disconnection.
 
 The impact of this project can be summarized in 5 items:
 
